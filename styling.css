@@ -1,0 +1,19 @@
+.img-fluid{
+    border-radius: 8%;
+}
+.bg-primary{
+    opacity: 0.8;
+    border-radius: 2%;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-image: url("gym.jpg");
+    background-size: cover;
+
+}
+.card{
+    border-radius: 2%;
+    opacity:0.8;
+}
